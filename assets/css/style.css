@@ -9,10 +9,6 @@
 # General
 --------------------------------------------------------------*/
 
-@font-face {
-  font-family: BAUH;
-  src: url(BAUHS93.TTF);
-}
 
 
 body {
@@ -483,7 +479,6 @@ a:hover {
   padding: 0;
   font-weight: 600;
   letter-spacing: 1px;
-  font-family: BAUH;
 }
 
 #header .logo a {
